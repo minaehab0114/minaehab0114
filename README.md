@@ -7,10 +7,22 @@ I am an Engineering student passionate about **Networking**, **Cybersecurity**, 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C/C++
-- **Networks & Security:** Cisco Packet Tracer, Linux (Kali / Ubuntu), Virtualization
-- **Hardware & Microcontrollers:** ESP32, Embedded Systems
-- **Tools & Environments:** Git, GitHub, VS Code, MATLAB
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minaehab0114&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaehab0114&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -19,19 +31,4 @@ I am an Engineering student passionate about **Networking**, **Cybersecurity**, 
 - 📧 **Email:** mina.ehab0114@nub.edu.eg
 
 ---
-⚡ *Learning, building, and optimizing daily!*## Hi there 👋
-
-<!--
-**minaehab0114/minaehab0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ *Learning, building, and optimizing daily!*
