@@ -26,15 +26,10 @@ I am an Engineering student passionate about **Networking**, **Cybersecurity**, 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minaehab0114&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaehab0114&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minaehab0114&theme=tokyonight&hide_border=true" />
+  <img src="https://graphs.roshan.xyz/minaehab0114/graph?theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
