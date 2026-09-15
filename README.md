@@ -1,34 +1,19 @@
-# Hi there, I'm Mina Ehab 👋
-
-### 🎓 Electronics & Communication Engineering Student
-
-I am an Engineering student passionate about **Networking**, **Cybersecurity**, **Linux Systems**, and **Embedded Systems**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Mina+Ehab+👋;Electronics+%26+Comm.+Engineering+Student;Networking+%26+Cybersecurity+Enthusiast;Linux+%26+Embedded+Systems+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minaehab0114&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaehab0114&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <a href="https://www.linkedin.com/in/mina-ehab-vector/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mina.ehab0114@nub.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Egypt-007A3D?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
----
+<br />
 
-### 🌐 Connect with Me
-- 💼 **LinkedIn:** [Mina Ehab](https://www.linkedin.com/in/mina-ehab-vector/)
-- 📧 **Email:** mina.ehab0114@nub.edu.eg
+## 🔬 About Me
 
----
-⚡ *Learning, building, and optimizing daily!*
+```syslog
+[+] Status     : Electronics & Communication Engineering Student @ NUB
+[+] Focus      : Computer Networking | Cybersecurity | Linux Systems | Embedded Dev
+[+] Mindset    : Continuous Learning & Performance Optimization
+[+] Current    : Deep diving into CCNA, Python Automation & Linux Admin
